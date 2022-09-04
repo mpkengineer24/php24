@@ -5,7 +5,7 @@
 <h1>NGK PHP DEMO</h1>
 
 <?php
-echo "Hello World! by NGK";
+echo "Hello World! by NG - via pipelineK";
 ?>
 
 </body>
